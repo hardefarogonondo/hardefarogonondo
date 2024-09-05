@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile
 
-👋 **Hey!** I'm Hardefa Rogonondo, and you can call me **Defa**. I'm a passionate **Senior Data Scientist** with 3 years of experience in the fintech sector, specializing in alternative credit scoring for banks and credit bureaus. I excel at turning data into actionable insights and building scalable machine learning models that drive strategic decisions. I’m proficient in Python and SQL, and I love collaborating on AI and machine learning projects!
+👋 **Hey!** I'm Hardefa Rogonondo, and you can call me **Defa**. I'm a passionate **Senior Data Scientist** with 3 years of experience in the fintech sector, specializing in alternative credit scoring for banks and credit bureaus. Most of my time is spent transforming data into meaningful insights and developing scalable machine learning or deep learning models to boost business strategic decisions. Have an exciting project or idea? Let’s grab a coffee and explore what we can create together!
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hardefarogonondo&show_icons=true&theme=ambient_gradient" alt="Hardefa's Github Stats">
@@ -16,7 +16,6 @@
     <p><img src="https://github-profile-trophy.vercel.app/?username=hardefarogonondo&theme=algolia&margin-w=5&margin-h=5" alt="Github Trophy" /></p>
   </details>
 </div>
-<br>
 
 <!-- ## 💼 Career
 I'm currently working as a **[Your Job Title]**, focusing on [specific area of work, e.g., AI, machine learning, deep learning, computer vision, NLP]. I have X+ years of experience in [specific areas], and I'm always open to exciting projects and collaborations.
